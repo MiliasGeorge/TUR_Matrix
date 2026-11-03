@@ -5,8 +5,8 @@
   "latest_beta_version": "1.16.2",
   "download_beta_url": "https://github.com/georgemilias/TUR_Matrix/releases/download/v1.16.0/TUR.Matrix.v1.16.2.BETA.zip",
 
-  "latest_Elt_FW_version": "2.1.28",
-  "download_Elt_FW_url": "https://github.com/georgemilias/TUR_Matrix/releases/download/v1.16.0/ELT_Main14_10_2026_Ver_2_1_28.ino_Serial.bin",
+  "latest_Elt_FW_version": "2.1.31",
+  "download_Elt_FW_url": "https://github.com/MiliasGeorge/TUR_Matrix/releases/download/v1.16.0/ELT_Main26_10_2026_Ver_2_1_31.ino.bin",
 
   "latest_Busboard_FW_version": "1.1.5",
   "download_Busboard_FW_url": "https://github.com/MiliasGeorge/TUR_Matrix/releases/download/v1.16.0/BUS_board_V1_1_5.ino_Serial.bin"
